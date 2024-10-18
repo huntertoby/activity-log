@@ -43,6 +43,7 @@ jobs:
         with:
           github_username: "huntertoby"
           github_token: ${{ secrets.ACTIONSECRET2024 }}
+          target_repos: '[huntertoby/activity-log]'
           output_style: MARKDOWN
           ignore_events: '[]'
           readme_path: README.md
