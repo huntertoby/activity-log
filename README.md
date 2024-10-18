@@ -15,7 +15,7 @@ A GitHub Action that automatically updates your README file with the latest acti
 - Event Filtering
 - Flexibility with Inputs
 
-## ✍️ Example
+## ✍️ EXAMPLE EXAMPLE
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to [raymundlin/activity-log](https://github.com/raymundlin/activity-log/commit/629e508b57424affa61e0b61fa60e65ffb5cdeeb)
