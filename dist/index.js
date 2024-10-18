@@ -30351,7 +30351,7 @@ module.exports = {
 const github = __nccwpck_require__(5618);
 const core = __nccwpck_require__(6026);
 const eventDescriptions = __nccwpck_require__(7214);
-const { username, token, eventLimit, style, ignoreEvents } = __nccwpck_require__(8793);
+const { username, token, eventLimit, style, targetRepos, ignoreEvents } = __nccwpck_require__(8793);
 
 // Create an authenticated Octokit client
 const octokit = github.getOctokit(token);
@@ -30423,7 +30423,7 @@ async function fetchAllEvents() {
 
             // Check for API rate limit or pagination issues
             if (events.length === 0) {
-                core.warning('⚠️ No more events available.');
+                core.warning('⚠️ T6: No more events available.');
                 break; // No more events to fetch
             }
 
@@ -30454,7 +30454,7 @@ async function fetchAndFilterEvents() {
         filteredEvents = allEvents
             .filter(event => !ignoreEvents.includes(event.type))
             .filter(event => !isTriggeredByGitHubActions(event))
-            .filter(event => targetRepos.includes(event.repop.name))
+            .filter(event => targetRepos.includes(event.repo.name))
             .map(event => {
                 if (event.type === 'WatchEvent') {
                     const isStarred = starredRepoNames.has(event.repo.name);
@@ -30464,12 +30464,13 @@ async function fetchAndFilterEvents() {
                 return event;
             })
             .slice(0, eventLimit);
-
+        break;
         // if (filteredEvents.length < eventLimit) {
         //     const additionalEvents = await fetchAllEvents();
+        //     if (additionalEvents.length === 0) break;
         //     allEvents = additionalEvents.concat(allEvents);
         // } else {
-            break;
+        //     break;
         // }
     }
 
