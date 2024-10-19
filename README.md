@@ -18,12 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ EXAMPLE EXAMPLE
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/5d57e40c3c98c68c8b112b8a1cf8729c238a6f55)
-2. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/0defbf9280d7cbb071b54ccc227d829e180f3ad1)
-3. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/6baafb242493864f9cb007608872c4abb490beb4)
-4. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/b9e231a290860c3f8b04372160e65635c5593387)
-5. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/ab1d873c04e2965f8057ad05a21f8571e2929585)
-6. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/a06abbb1436f12c7d477d8f25455bd53194e6995)
+1. ❌ Closed an issue [#6](https://github.com/huntertoby/UnityFpsPractice/issues/6) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
+2. 🆕 Opened an issue [#6](https://github.com/huntertoby/UnityFpsPractice/issues/6) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
+3. ❌ Closed an issue [#5](https://github.com/huntertoby/UnityFpsPractice/issues/5) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
+4. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/a3ae79ba0430ec6f8329fdca77e484bdf5e4de7f)
+5. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/e6c8facc7cedb819de1a99ff87a4868e9c8fb1cb)
+6. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/f2c2549910d78aee58beb0ed09ff5920304f81c2)
+7. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/3cef529a10f604fb11b431ce726370d09412e85e)
+8. ➕ Created a new branch [`huntertoby-patch-1`](https://github.com/huntertoby/activity-log/tree/huntertoby-patch-1) in [huntertoby/activity-log](https://github.com/huntertoby/activity-log)
+9. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/0c71988394d63d7e006a02ca32e9c437c154cc04)
+10. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/da9f19eaaba5b81cc85eeb85c2ecc31bce643df3)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
