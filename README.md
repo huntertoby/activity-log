@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ EXAMPLE EXAMPLE
 
 <!--START_SECTION:activity-->
-1. undefined
-2. 🆕 Opened an issue [#7](https://github.com/huntertoby/UnityFpsPractice/issues/7) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
-3. undefined
-4. 🎉 Created a new repository [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
-5. ➕ Created a new branch [`main`](https://github.com/huntertoby/TestProject/tree/main) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
-6. ❌ Closed an issue [#6](https://github.com/huntertoby/UnityFpsPractice/issues/6) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
-7. 🆕 Opened an issue [#6](https://github.com/huntertoby/UnityFpsPractice/issues/6) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
-8. ❌ Closed an issue [#5](https://github.com/huntertoby/UnityFpsPractice/issues/5) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
-9. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/a3ae79ba0430ec6f8329fdca77e484bdf5e4de7f)
-10. 📝 Committed to [huntertoby/activity-log](https://github.com/huntertoby/activity-log/commit/e6c8facc7cedb819de1a99ff87a4868e9c8fb1cb)
+1. 📝 Committed to [huntertoby/TestProject](https://github.com/huntertoby/TestProject/commit/24a179bbb0a339926236d2216a1987265268a0e4)
+2. 🔀 Merged [PR #5](https://github.com/huntertoby/TestProject/pull/5) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
+3. 🔎 Reviewed [PR #1](https://github.com/huntertoby/TestProject/pull/1) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
+4. 🆕 Opened an issue [#3](https://github.com/huntertoby/TestProject/issues/3) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
+5. undefined
+6. 🆕 Opened an issue [#7](https://github.com/huntertoby/UnityFpsPractice/issues/7) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
+7. undefined
+8. 🎉 Created a new repository [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
+9. ➕ Created a new branch [`main`](https://github.com/huntertoby/TestProject/tree/main) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
+10. ❌ Closed an issue [#6](https://github.com/huntertoby/UnityFpsPractice/issues/6) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
