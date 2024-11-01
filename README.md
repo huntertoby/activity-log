@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ EXAMPLE EXAMPLE
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [huntertoby/TestProject](https://github.com/huntertoby/TestProject/commit/24a179bbb0a339926236d2216a1987265268a0e4)
-2. 🔀 Merged [PR #5](https://github.com/huntertoby/TestProject/pull/5) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
-3. 🔎 Reviewed [PR #1](https://github.com/huntertoby/TestProject/pull/1) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
-4. 🆕 Opened an issue [#3](https://github.com/huntertoby/TestProject/issues/3) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
-5. undefined
-6. 🆕 Opened an issue [#7](https://github.com/huntertoby/UnityFpsPractice/issues/7) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
+1. 🗣 Commented on issue [#3](https://github.com/huntertoby/TestProject/issues/3) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject): [View Comment](https://github.com/huntertoby/TestProject/issues/3#issuecomment-2449263996)
+2. ❌ Closed an issue [#3](https://github.com/huntertoby/TestProject/issues/3) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
+3. 📝 Committed to [huntertoby/TestProject](https://github.com/huntertoby/TestProject/commit/24a179bbb0a339926236d2216a1987265268a0e4)
+4. 🔀 Merged [PR #5](https://github.com/huntertoby/TestProject/pull/5) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
+5. 🔎 Reviewed [PR #1](https://github.com/huntertoby/TestProject/pull/1) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
+6. 🆕 Opened an issue [#3](https://github.com/huntertoby/TestProject/issues/3) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
 7. undefined
-8. 🎉 Created a new repository [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
-9. ➕ Created a new branch [`main`](https://github.com/huntertoby/TestProject/tree/main) in [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
-10. ❌ Closed an issue [#6](https://github.com/huntertoby/UnityFpsPractice/issues/6) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
+8. 🆕 Opened an issue [#7](https://github.com/huntertoby/UnityFpsPractice/issues/7) in [huntertoby/UnityFpsPractice](https://github.com/huntertoby/UnityFpsPractice)
+9. undefined
+10. 🎉 Created a new repository [huntertoby/TestProject](https://github.com/huntertoby/TestProject)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
